@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "cstdlib": "c",
+        "*.tcc": "c",
+        "forward_list": "c",
+        "list": "c",
+        "regex": "c"
+    }
+}
